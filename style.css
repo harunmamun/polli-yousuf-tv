@@ -1,0 +1,123 @@
+body{
+    margin: 0;
+}
+.ome{
+    text-decoration: none;
+    border-radius: 15px;
+    padding: 7px 20px ;
+    float: right;
+    margin-top: 20px;
+    color: rgb(245, 240, 240);
+    background-image: linear-gradient(45deg, red, green);
+    font-weight: 600;
+    margin-right: 3%;  
+}
+.home{
+    height: 70px;
+    padding-bottom: 0%;
+    background-color: rgb(21, 117, 182);
+}
+.haha{
+    background-image: url("image/bk.jpg");
+    height: 250px;
+    padding-bottom: 150px;
+    border-radius: 30px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+h1{
+    margin-left: 5%;
+}
+.polli{
+    width: 50px;
+    padding-left: 70px;
+    margin-top: 15px;
+}
+.monir{
+    width: 100px;
+    border-radius: 90px; 
+}
+.tv{
+    text-align: center;
+    padding-top: 13%;
+    font-size: 555%;
+    color: rgb(255, 255, 255);
+}
+.you{
+    padding-top: 15px;
+    padding-left: 15px;
+}
+.our{
+    text-align: center;
+    border-radius: 15px;
+    padding: 7px 20px ;
+    color: rgb(202, 215, 240);
+    background-image: linear-gradient(45deg, red, green);
+    font-weight: 600;
+}
+footer{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+.ppp{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 15px;
+    padding: 7px 20px ;
+    margin-top: 20px;
+    color: rgb(245, 240, 240);
+    background-image: linear-gradient(45deg, red, green);
+    font-weight: 600;
+
+}
+.om {
+    text-decoration: none;
+    padding: 7px 20px;
+    color: rgb(197, 211, 247);
+    background-color: rgb(110, 165, 228);
+    border-radius: 20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.or:hover{
+    color: rgb(95, 206, 250);
+    background-color: rgb(48, 133, 245);
+}
+.qqq{
+    height: 200px;
+}
+ .moni{
+    height: 300px;
+    width: 500px;
+    margin-left: 67vh;
+    border-radius: 25px; 
+} 
+
+h3{
+    text-align: center;
+
+}
+.h{
+    height: 300px;
+    background-color: rgb(156, 193, 250);
+    text-align: center;
+    padding-top: 20px;
+}
+.f{
+    width: 32px;
+}
+.p{
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color: rgb(9, 75, 197);
+}
+.last{
+    margin-top: 50px;    
+}
+.aber{
+    position: relative;
+}
+}
